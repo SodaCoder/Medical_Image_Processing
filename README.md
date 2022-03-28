@@ -6,4 +6,4 @@ Classification Model Link: https://drive.google.com/file/d/1-K_vLlTh3mEYAx5zqKKY
 
 Keep The model file in a folder and set that folder name in the path.
 
-Run src/MainRunnable.py for the classification task
+Run *src/MainRunnable.py* for the classification task
